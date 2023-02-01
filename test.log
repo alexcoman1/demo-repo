@@ -1,0 +1,10 @@
+DEBUG:root:Add: 10 + 5 = 15
+DEBUG:root:Sub: 10 - 5 = 5
+DEBUG:root:Mul: 10 * 5 = 50
+DEBUG:root:Div: 10 / 5 = 2.0
+Created employee: John Smith - John.Smith@email.com
+INFO:Created employee: John Smith - John.Smith@email.com
+Created employee: Corey Schafer - Corey.Schafer@email.com
+INFO:Created employee: Corey Schafer - Corey.Schafer@email.com
+Created employee: Jane Doe - Jane.Doe@email.com
+INFO:Created employee: Jane Doe - Jane.Doe@email.com
